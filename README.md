@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faterenuka&label=Profile%20views&color=0e75b6&style=flat" alt="faterenuka" /> </p>
 
-- 💬 Ask me about **Java,SpringBoot,MySQL**
+- 💬 Ask me about **Java,SpringBoot,MySQL,HTML,CSS**
 
 - 📫 How to reach me **renufate@gmail.com**
 
